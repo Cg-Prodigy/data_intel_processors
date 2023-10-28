@@ -1,0 +1,1033 @@
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Intel® Core™ Laptop Processors Comparison Chart ,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Click the link in the processor number column to find more features ,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Processor Number,Intel® Core™ Generation,Brand Identifier ,Year Launched,Lithography,# cores ,# of Performance-cores,# of Efficient-cores,# Threads,Max Turbo Frequency,Cache,Processor Base Power (previously known as TDP),Minimum Assured Power (previously known as Configurable TDP-down),Max Memory Size (dependent on memory type),Memory Types5,Processor Graphics,Graphics Max Dynamic Frequency,"Max Resolution for HDMI,
+ Max Resolution for DP, 
+Max Resolution for (eDP - Integrated Flat Panel)",DirectX* Support,OpenGL* Support,Intel® vPro™ Eligibility,Instruction Set Extensions
+i9-13980HX,13th ,i9,2023,Intel 7,24,8,16,32,"5.60 GHz3,4",36 MB,55 W,45 W,128 GB,"Up to DDR5 5600 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 13th Gen,1.65 GHz,"HDMI: 4096 x 2160 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 5120 x 3200 @ 120Hz	",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-13950HX,13th ,i9,2023,Intel 7,24,8,16,32,"5.50 GHz2,4",36 MB,55 W,45 W,128 GB,"Up to DDR5 5600 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 13th Gen,1.65 GHz,"HDMI: 4096 x 2160 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 5120 x 3200 @ 120Hz	",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-13905H,13th ,i9,2023,Intel 7,14,6,8,20,"5.40 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-13900HX,13th ,i9,2023,Intel 7,24,8,16,32,"5.40 GHz2,4",36 MB,55 W,45 W,128 GB,"Up to DDR5 5600 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 13th Gen,1.65 GHz,"HDMI: 4096 x 2160 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 5120 x 3200 @ 120Hz	",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-13900HK,13th ,i9,2023,Intel 7,14,6,8,20,"5.40 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-13900H,13th ,i9,2023,Intel 7,14,6,8,20,"5.40 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-13850HX,13th ,i7,2023,Intel 7,20,8,12,28,"5.30 GHz2,4",30 MB,55 W,45 W,128 GB,"Up to DDR5 5600 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 13th Gen,1.60 GHz,"HDMI: 4096 x 2160 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 5120 x 3200 @ 120Hz	",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-13800H,13th ,i7,2023,Intel 7,14,6,8,20,"5.20 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1370P,13th ,i7,2023,Intel 7,14,6,8,20,"5.20 GHz2,4",24 MB,28 W,20 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-13705H,13th ,i7,2023,Intel 7,14,6,8,20,"5.00 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-13700HX,13th ,i7,2023,Intel 7,16,8,8,24,"5.00 GHz2,4",30 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 13th Gen,1.55 GHz,"HDMI: 4096 x 2160 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 5120 x 3200 @ 120Hz	",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-13700H,13th ,i7,2023,Intel 7,14,6,8,20,"5.00 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1365U,13th ,i7,2023,Intel 7,10,2,8,12,"5.20 GHz1,4",12 MB,15 W,12 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.30 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-13650HX,13th ,i7,2023,Intel 7,14,6,8,20,"4.90 GHz2,4",24 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 13th Gen,1.55 GHz,"HDMI: 4096 x 2160 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 5120 x 3200 @ 120Hz	",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-13620H,13th ,i7,2023,Intel 7,10,6,4,16,"4.90 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® UHD for 13th Gen,1.50 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1360P,13th ,i7,2023,Intel 7,12,4,8,16,"5.00 GHz1,4",18 MB ,28 W,20 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1355U,13th ,i7,2023,Intel 7,10,2,8,12,"5.00 GHz1,4",12 MB,15 W,12 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.30 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-13600HX,13th ,i5,2023,Intel 7,14,6,8,20,"4.80 GHz1,4",24 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 13th Gen,1.50 GHz,"HDMI: 4096 x 2160 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 5120 x 3200 @ 120Hz	",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-13600H,13th ,i5,2023,Intel 7,12,4,8,16,"4.80 GHz1,4",18 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1350P,13th ,i5,2023,Intel 7,12,4,8,16,"4.70 GHz1,4",12 MB,28 W,20 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.50 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-13505H,13th ,i5,2023,Intel 7,12,4,8,16,"4.70 GHz1,4",18 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.45 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-13500HX,13th ,i5,2023,Intel 7,14,6,8,20,"4.70 GHz1,4",24 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 13th Gen,1.50 GHz,"HDMI: 4096 x 2160 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 5120 x 3200 @ 120Hz	",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-13500H7,13th ,i5,2023,Intel 7,12,4,8,16,"4.70 GHz1,4",18 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.45 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1345U,13th ,i5,2023,Intel 7,10,2,8,12,"4.70 GHz1,4",12 MB,15 W,12 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.25 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-13450HX,13th ,i5,2023,Intel 7,10,6,4,16,"4.60 GHz1,4",20 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 13th Gen,1.45 GHz,"HDMI: 4096 x 2160 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 5120 x 3200 @ 120Hz	",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-13420H,13th ,i5,2023,Intel 7,8,4,4,12,"4.60 GHz1,4",12 MB,45 W,35 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® UHD for 13th Gen,1.40 GHz,"HDMI: 4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP: 4096 x 2304 @ 120Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1340P,13th ,i5,2023,Intel 7,12,4,8,16,"4.60 GHz1,4",12 MB,28 W,20 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.45 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1335U,13th ,i5,2023,Intel 7,10,2,8,12,"4.60 GHz1,4",12 MB,15 W,12 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 6400 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.25 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1334U,13th ,i5,2023,Intel 7,10,2,8,12,"4.60 GHz1,4",12 MB,15 W,N/A,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.25 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-1315U6,13th ,i3,2023,Intel 7,6,2,4,8,"4.50 GHz1,4",10 MB,15 W,12 W,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® UHD for 13th Gen,1.25 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-1305U,13th ,i3,2023,Intel 7,5,1,4,6,"4.50 GHz1,4",10 MB,15 W,N/A,64 GB,"Up to DDR5 5200 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5/x 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® UHD for 13th Gen,1.25 GHz,"HDMI:  4096 x 2304 @ 60Hz
+DP: 7680 x 4320 @ 60Hz
+eDP:  4096 x 2304 @ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-12950HX,12th,i9,2022,Intel 7,16,8,8,24,"5.00 GHz2,4",30 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 12th Gen,1.55 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 5120 x 3200@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-12900HK,12th,i9,2022,Intel 7,14,6,8,20,"5.00 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 4800 MT/s 
+Up to DDR4 3200 MT/s 
+Up to LPDDR5 5200 MT/s 
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-12900H,12th,i9,2022,Intel 7,14,6,8,20,"5.00 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 4800 MT/s 
+Up to DDR4 3200 MT/s 
+Up to LPDDR5 5200 MT/s 
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-12850HX,12th,i7,2022,Intel 7,16,8,8,24,"4.80 GHz2,4",25 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 12th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 5120 x 3200@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-12800H,12th,i7,2022,Intel 7,14,6,8,20,"4.80 GHz2,4",24 MB,45 W,35 W,64 GB,"Up to DDR5 4800 MT/s 
+Up to DDR4 3200 MT/s 
+Up to LPDDR5 5200 MT/s 
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.40 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1270P,12th,i7,2022,Intel 7,12,4,8,16,"4.80 GHz1,4",18 MB,28 W,20 W,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.40 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-12700H,12th,i7,2022,Intel 7,14,6,8,20,"4.70 GHz2,4",24 MB,45 W,35 W,64 GB,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s Up to LPDDR5 5200 MT/s Up to LPDDR4x 4267 MT/s,Intel® Iris® Xe Graphics eligible,1.40 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1265U,12th,i7,2022,Intel 7,10,2,8,12,"4.80 GHz1,4",12 MB,15 W,12 W,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.25 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-12650HX,12th,i7,2022,Intel 7,14,6,8,20,"4.70 GHz2,4",24 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 12th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 5120 x 3200@ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-12650H,12th,i7,2022,Intel 7,10,6,4,16,"4.70 GHz2,4",24 MB,45 W,35 W,64 GB,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s Up to LPDDR5 5200 MT/s Up to LPDDR4x 4267 MT/s,Intel® UHD Graphics for 12th Gen,1.40 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1260U,12th,i7,2022,Intel 7,10,2,8,12,"4.70 GHz1,4",12 MB,9 W,N/A,64 GB,"Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/",Intel® Iris® Xe Graphics eligible,950 MHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1260P ,12th,i7,2022,Intel 7,12,4,8,16,"4.70 GHz1,4",18 MB,28 W,20 W,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.40 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1255U,12th,i7,2022,Intel 7,10,2,8,12,4.70 GHz4,12 MB,15 W,12 W,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.25 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1250U,12th,i7,2022,Intel 7,10,2,8,12,"4.70 GHz1,4",12 MB,9 W,N/A,64 GB,"Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,950 MHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-12600H,12th,i5,2022,Intel 7,12,4,8,16,"4.50 GHz1,4",18 MB,45 W,35 W,64 GB,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s Up to LPDDR5 5200 MT/s Up to LPDDR4x 4267 MT/s,Intel® Iris® Xe Graphics eligible,1.40 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1250P ,12th,i5,2022,Intel 7,12,4,8,16,"4.40 GHz1,4",12 MB,28 W,20 W,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.40 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-12500H,12th,i5,2022,Intel 7,12,4,8,16,"4.50 GHz1,4",18 MB,45 W,35 W,64 GB,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s Up to LPDDR5 5200 MT/s Up to LPDDR4x 4267 MT/s,Intel® Iris® Xe Graphics eligible,1.30 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1245U ,12th,i5,2022,Intel 7,10,2,8,12,"4.40 GHz1,4",12 MB,15 W,12 W,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.20 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-12450HX ,12th,i5,2022,Intel 7,8,4,4,12,"4.40 GHz2,4",12 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 12th Gen,1.30 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 5120 x 3200@ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-12450H,12th,i5,2022,Intel 7,8,4,4,12,"4.40 GHz1,4",12 MB,45 W,35 W,64 GB,Up to DDR5 4800 MT/s Up to DDR4 3200 MT/s Up to LPDDR5 5200 MT/s Up to LPDDR4x 4267 MT/s,Intel® UHD Graphics for 12th Gen,1.20 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1240U ,12th,i5,2022,Intel 7,10,2,8,12,"4.40 GHz1,4",12 MB,9 W,N/A,64 GB,"Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,900 MHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1235U,12th,i5,2022,Intel 7,10,2,8,12,"4.40 GHz1,4",12 MB,15 W,N/A,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.20 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1230U ,12th,i5,2022,Intel 7,10,2,8,12,"4.40 GHz1,4",12 MB,9 W,N/A,64 GB,"
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,850 MHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-1220P,12th,i3,2022,Intel 7,10,2,8,12,"4.40 GHz1,4",12 MB,28 W,20 W ,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s","
+Intel® UHD for 12th Gen",1.10 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-1215U,12th,i3,2022,Intel 7,6,2,4,8,"4.40 GHz1,4",10 MB,15 W,N/A,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s","
+Intel® UHD for 12th Gen",1.10 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-1210U,12th,i3,2022,Intel 7,6,2,4,8,"4.40 GHz1,4",10 MB,9 W,N/A,64 GB,"
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s","
+Intel® UHD for 12th Gen",850 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-12900HX ,12th,i9,2022,Intel 7,16,8,8,24,"5.00 GHz,2,4",30 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 12th Gen,1.55 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 5120 x 3200@ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1280P,12th,i7,2022,Intel 7,14,6,8,20,"4.80 GHz2,4",24 MB,28 W,20 W,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-12800HX,12th,i7,2022,Intel 7,16,8,8,24,"4.80 GHz2,4",25 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 12th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 5120 x 3200@ 120Hz
+",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-12600HX,12th,i5,2022,Intel 7,12,4,8,16,"4.60 GHz2,4",18 MB,55 W,45 W,128 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s",Intel® UHD for 12th Gen,1.35 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 5120 x 3200@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+ i5-1240P,12th,i5,2022,Intel 7,12,4,8,16,"4.40 GHz1,4",12 MB,28 W,20 W,64 GB,"Up to DDR5 4800 MT/s
+Up to DDR4 3200 MT/s
+Up to LPDDR5 5200 MT/s
+Up to LPDDR4x 4267 MT/s",Intel® Iris® Xe Graphics eligible,1.30 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@60Hz
+eDP: 4096 x 2304@ 120Hz
+",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1195G7,11th ,i9,2021,10 nm SuperFin,4,N/A,N/A,8,5.00 GHz2,12 MB,28 W,12 W,64 GB,"DDR4-3200, LPDDR4x-4267","
+Intel® Iris® Xe Graphics eligible",1.40 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"
+Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i9-11980HK ,11th,i9,2021,10 nm SuperFin,8,N/A,N/A,16,"5.00 GHz,2",24 MB,65 W,45 W,128 GB,Up to 3200 MT/s,Intel® UHD Graphics for 11th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i9-11950H,11th,i9,2021,10 nm SuperFin,8,N/A,N/A,16,"5.00 GHz,2",24 MB,45 W,35 W,128 GB,Up to 3200 MT/s,Intel® UHD Graphics for 11th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i9-11900H,11th,i9,2021,10 nm SuperFin,8,N/A,N/A,16,4.90 GHz2,24 MB,45 W,35 W,128 GB,Up to 3200 MT/s,Intel® UHD Graphics for 11th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-11850H,11th,i7,2021,10 nm SuperFin,8,N/A,N/A,16,4.80 GHz1,24 MB,45 W,35 W,128 GB,Up to 3200 MT/s,Intel® UHD Graphics for 11th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-1180G7,11th,i7,2021,10 nm SuperFin,4,N/A,N/A,8,4.60 GHz1,12 MB,15 W,7 W,32 GB,Up to [LPDDR4x-4267],Intel® Iris® Xe Graphics,1.10 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-11800H,11th,i7,2021,10 nm SuperFin,8,N/A,N/A,16,4.60 GHz1,24 MB,45 W,35 W,128 GB,Up to 3200 MT/s,Intel® UHD Graphics for 11th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-11600H,11th,i7,2021,10 nm SuperFin,6,N/A,N/A,12,4.60 GHz1,18 MB,45 W,35 W,128 GB,Up to 3200 MT/s,Intel® UHD Graphics for 11th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-11375H,11th,i7,2021,10 nm SuperFin,4,N/A,N/A,8,5.00 GHz2,12 MB,35 W,28 W,64 GB,"Up to [DDR4-3200, LPDDR4x-4267]",Intel® Iris® Xe Graphics,1.35 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-11370H,11th,i7,2021,10 nm SuperFin,4,N/A,N/A,8,4.80 GHz1,12 MB,35 W,28 W,64 GB,"DDR4-3200, LPDDR4x-4267",Intel® Iris® Xe Graphics,1.35 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-1155G7,11th,i5,2021,10 nm SuperFin,4,N/A,N/A,8,4.50 GHz1,8 MB ,28 W,12 W,64 GB,"Up to 
+DDR4-3200, LPDDR4x-4267",Intel® Iris® Xe Graphics,1.35 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-11500H ,11th,i5,2021,10 nm SuperFin,6,N/A,N/A,12,4.60 GHz1,12 MB,45 W,35 W,128 GB,Up to 3200 MT/s,Intel® UHD Graphics for 11th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-1145G7,11th,i5,2021,10 nm SuperFin,4,N/A,N/A,8,4.40 GHz1,8 MB ,28 W,12 W,64 GB,"Up to [DDR4-3200, LPDDR4x-4267]",Intel® Iris® Xe Graphics,1.30 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-1140G7,11th,i5,2021,10 nm SuperFin,4,N/A,N/A,8,4.20 GHz1,8 MB ,28 W,7 W,32 GB,Up to [LPDDR4x-4267],Intel® Iris® Xe Graphics,1.10 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-11400H,11th,i5,2021,10 nm SuperFin,6,N/A,N/A,12,4.50 GHz1,12 MB,45 W,35 W,128 GB,Up to 3200 MT/s,Intel® UHD Graphics for 11th Gen,1.45 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-11320H,11th,i5,2021,10 nm SuperFin,4,N/A,N/A,8,4.50 GHz1,8 MB ,35 W,28 W,64 GB,"Up to DDR4-3200, LPDDR4x-4267",Intel® Iris® Xe Graphics,1.35 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-11300H,11th,i5,2021,10 nm SuperFin,4,N/A,N/A,8,4.40 GHz1,8 MB ,35 W,28 W,64 GB,"Up to [DDR4-3200, LPDDR4x-4267]",Intel® Iris® Xe Graphics,1.30 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-11260H,11th,i5,2021,10 nm SuperFin,6,N/A,N/A,12,4.40 GHz1,12 MB,45 W,35 W,128 GB,Up to 3200 MT/s,Intel® UHD Graphics for 11th Gen,1.40 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i3-1125G4,11th,i3,2021,10 nm SuperFin,4,N/A,N/A,8,3.70 GHz1,8 MB,28 W,12 W,64 GB,"DDR4-3200, LPDDR4x-3733",Intel® UHD Graphics for 11th Gen,1.25 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i3-1120G4,11th,i3,2021,10 nm SuperFin,4,N/A,N/A,8,3.70 GHz1,8 MB,N/A,7 W,32 GB,LPDDR4x-4267,Intel® UHD Graphics for 11th Gen,1.10 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i3-10100Y,10th,i3,2021,14 nm,8,N/A,N/A,16,3.90 GHz1,4 MB ,5 W,3.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® UHD Graphics 615,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1185G7,11th,i7,2020,10 nm SuperFin,4,N/A,N/A,8,4.80 GHz1,12 MB,28 W,12 W,64 GB,"Up to [DDR4-3200, LPDDR4x-4267]",Intel® Iris® Xe Graphics,1.35 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-1165G7,11th,i7,2020,10 nm SuperFin,4,N/A,N/A,8,4.70 GHz1,12 MB,28 W,12 W,64 GB,"Up to [DDR4-3200, LPDDR4x-4267]",Intel® Iris® Xe Graphics,1.30 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-1160G7,11th,i7,2020,10 nm SuperFin,4,N/A,N/A,8,4.40 GHz1,12 MB,15 W,7 W,32 GB,Up to [LPDDR4x-4267],Intel® Iris® Xe Graphics,1.10 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-1135G7,11th,i5,2020,10 nm SuperFin,4,N/A,N/A,8,4.20 GHz1,8 MB ,28 W,12 W,64 GB,"Up to [DDR4-3200, LPDDR4x-4267]",Intel® Iris® Xe Graphics,1.30 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-1130G7,11th,i5,2020,10 nm SuperFin,4,N/A,N/A,8,4.00 GHz1,8 MB ,15 W,7 W,32 GB,Up to [LPDDR4x-4267],Intel® Iris® Xe Graphics,1.10 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i3-1115G4,11th,i3,2020,10 nm SuperFin,2,N/A,N/A,4,4.10 GHz1,6 MB ,28 W,12 W,64 GB,"Up to [DDR4-3200, LPDDR4x-3733]",Intel® UHD Graphics,1.25 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i3-1110G4,11th,i3,2020,10 nm SuperFin,2,N/A,N/A,4,3.90 GHz1,6 MB ,15 W,7 W,32 GB,Up to [LPDDR4x-4267],Intel® UHD Graphics,1.10 GHz,"HDMI: 4096 x 2304@ 60Hz
+DP: 7680 x 4320@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12.1,4.6,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i9-10980HK,10th,i9,2020,14 nm,8,N/A,N/A,16,5.30 GHz3,16 MB,45 W,N/A,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.25 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-10885H,10th,i9,2020,14 nm,8,N/A,N/A,16,5.30 GHz3,16 MB,45 W,35 W,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.25 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-10875H,10th,i7,2020,14 nm,8,N/A,N/A,16,5.10 GHz2,16 MB,45 W,35 W,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.20 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-10870H,10th,i7,2020,14 nm,8,N/A,N/A,16,5.00 GHz3,16 MB,45 W,35 W,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.20 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-10850H,10th,i7,2020,14 nm,6,N/A,N/A,12,5.10 GHz3,12 MB,45 W,35 W,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-10810U,10th,i7,2020,14 nm,6,N/A,N/A,12,4.90 GHz1,12 MB,15 W,12.5 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133, LPDDR4-2933]",Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-10750H,10th,i7,2020,14 nm,6,N/A,N/A,12,5.00 GHz3,12 MB,45 W,35 W,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1068NG7,10th,i7,2020,10 nm,4,N/A,N/A,8,4.10 GHz1,8 MB ,28 W,N/A,64 GB,"Up to [DDR4-3200, LPDDR4-3733]",Intel® Iris® Plus Graphics,1.10 GHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-10610U,10th,i7,2020,14 nm,4,N/A,N/A,8,4.90 GHz1,8 MB ,15 W,10 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133, LPDDR4-2933]",Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-10500H,10th,i5,2020,14 nm,6,N/A,N/A,12,4.50 GHz2,12 MB,45 W,35 W,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-10400H,10th,i5,2020,14 nm,4,N/A,N/A,8,4.60 GHz1,8 MB ,45 W,35 W,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1038NG7,10th,i5,2020,10 nm,4,N/A,N/A,8,3.80 GHz1,6 MB ,28 W,N/A,64 GB,"Up to [DDR4-3200, LPDDR4-3733]",Intel® Iris® Plus Graphics,1.05 GHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-10310U,10th,i5,2020,14 nm,4,N/A,N/A,8,4.40 GHz1,6 MB ,15 W,10 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133, LPDDR4-2933]",Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-10300H,10th,i5,2020,14 nm,4,N/A,N/A,8,4.50 GHz1,8 MB ,45 W,35 W,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-10200H,10th,i5,2020,14 nm,4,N/A,N/A,8,4.10 GHz1,8 MB ,45 W,35 W,128 GB,Up to [DDR4-2933],Intel® UHD Graphics,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-9980HK,9th,i9,2019,14 nm,8,N/A,N/A,16,5.00 GHz1,16 MB,45 W,N/A,128 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.25 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-9880H,9th,i9,2019,14 nm,8,N/A,N/A,16,4.80 GHz1,16 MB,45 W,35 W,128 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.20 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-9850H,9th,i7,2019,14 nm,6,N/A,N/A,12,4.60 GHz1,12 MB,45 W,35 W,128 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.15 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-9750HF,9th,i7,2019,14 nm,6,N/A,N/A,12,4.50 GHz1,12 MB,45 W,35 W,128 GB,"Up to [DDR4-2666, LPDDR3-2133]",N/A,N/A,N/A,N/A,N/A,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-9750H,9th,i7,2019,14 nm,6,N/A,N/A,12,4.50 GHz1,12 MB,45 W,35 W,128 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.15 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-9400H,9th,i5,2019,14 nm,4,N/A,N/A,8,4.30 GHz1,8 MB ,45 W,35 W,128 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-9300HF,9th,i5,2019,14 nm,4,N/A,N/A,8,4.10 GHz1,8 MB ,45 W,35 W,128 GB,"Up to [DDR4-2666, LPDDR3-2133]",N/A,N/A,N/A,N/A,N/A,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-9300H,9th,i5,2019,14 nm,4,N/A,N/A,8,4.10 GHz1,8 MB ,45 W,35 W,128 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8665U,8th,i7,2019,14 nm,4,N/A,N/A,8,4.80 GHz1,8 MB ,15 W,10 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@ 24Hz
+DP: 4096 x 2304@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8569U,8th,i7,2019,14 nm,4,N/A,N/A,8,4.70 GHz1,8 MB ,28 W,N/A,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® Iris® Plus Graphics 655,1.20 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8557U,8th,i7,2019,14 nm,4,N/A,N/A,8,4.50 GHz1,8 MB ,15 W,N/A,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® Iris® Plus Graphics 645,1.15 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8500Y,8th,i7,2019,14 nm,2,N/A,N/A,4,4.20 GHz1,4 MB ,5 W,3.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® UHD Graphics 615,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8365U,8th,i5,2019,14 nm,4,N/A,N/A,8,4.10 GHz1,6 MB ,15 W,10 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics,1.10 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8310Y,8th,i5,2019,14 nm,2,N/A,N/A,4,3.90 GHz1,4 MB ,7 W,N/A,16 GB,"Up to [LPDDR3-2133, DDR3L-1600]",Intel® UHD Graphics 617,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8279U,8th,i5,2019,14 nm,4,N/A,N/A,8,4.10 GHz1,6 MB ,28 W,N/A,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® Iris® Plus Graphics 655,1.15 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8260U,8th,i5,2019,14 nm,4,N/A,N/A,8,3.90 GHz1,6 MB ,15 W,10 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics 620,1.10 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8257U,8th,i5,2019,14 nm,4,N/A,N/A,8,3.90 GHz1,6 MB ,15 W,N/A,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® Iris® Plus Graphics 645,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8210Y,8th,i5,2019,14 nm,2,N/A,N/A,4,3.60 GHz1,4 MB ,7 W,N/A,16 GB,"Up to [LPDDR3-2133, DDR3L-1600]",Intel® UHD Graphics 617,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-8140U,8th,i3,2019,14 nm,2,N/A,N/A,4,3.90 GHz1,4 MB ,15 W,10 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics 620,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-10710U,10th,i7,2019,14 nm,6,N/A,N/A,12,4.70 GHz1,12 MB,15 W,12.5 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133, LPDDR4-2933]",Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@ 24Hz
+DP: 4096 x 2304@ 60Hz
+eDP: 4096 x 2304@ 60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-1065G7,10th,i7,2019,10 nm,4,N/A,N/A,8,3.90 GHz1,8 MB ,15 W,12 W,64 GB,"Up to [DDR4-3200, LPDDR4-3733]",Intel® Iris® Plus Graphics,1.10 GHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-1060G7,10th,i7,2019,10 nm,4,N/A,N/A,8,3.80 GHz1,8 MB ,9 W,N/A,32 GB,Up to [LPDDR4-3733],Intel® Iris® Plus Graphics,1.10 GHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i7-10510Y,10th,i7,2019,14 nm,4,N/A,N/A,8,4.50 GHz1,8 MB ,7 W,4.5 W,16 GB,"Up to [LPDDR3-2133, DDR3L-1600]",Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,Yes,Intel® SSE4.1
+i7-10510U,10th,i7,2019,14 nm,4,N/A,N/A,8,4.90 GHz1,8 MB ,15 W,10 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133, LPDDR4-2933]",Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-1035G7,10th,i5,2019,10 nm,4,N/A,N/A,8,3.70 GHz1,6 MB ,15 W,12 W,64 GB,"Up to [DDR4-3200, LPDDR4-3733]",Intel® Iris® Plus Graphics,1.05 GHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-1035G4,10th,i5,2019,10 nm,4,N/A,N/A,8,3.70 GHz1,6 MB ,15 W,12 W,64 GB,"Up to [DDR4-3200, LPDDR4-3733]",Intel® Iris® Plus Graphics,1.05 GHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-1035G1,10th,i5,2019,10 nm,4,N/A,N/A,8,3.60 GHz1,6 MB ,15 W,13 W,64 GB,"Up to [DDR4-3200, LPDDR4-3733]",Intel® UHD Graphics,1.05 GHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-10310Y,10th,i5,2019,14 nm,4,N/A,N/A,8,4.10 GHz1,6 MB ,7 W,5.5 W,16 GB,"Up to [LPDDR3-2133, DDR3L-1600]",Intel® UHD Graphics,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,Yes,Intel® SSE4.1
+i5-1030G7,10th,i5,2019,10 nm,4,N/A,N/A,8,3.50 GHz1,6 MB ,9 W,N/A,32 GB,Up to [LPDDR4-3733],Intel® Iris® Plus Graphics,1.05 GHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-1030G4,10th,i5,2019,10 nm,4,N/A,N/A,8,3.50 GHz1,6 MB ,9 W,N/A,32 GB,Up to [LPDDR4-3733],Intel® Iris® Plus Graphics,1.05 GHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i5-10210Y,10th,i5,2019,14 nm,4,N/A,N/A,8,4.00 GHz1,6 MB ,7 W,5.5 W,16 GB,"Up to [LPDDR3-2133, DDR3L-1600]",Intel® UHD Graphics,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,Intel® SSE4.1
+i5-10210U,10th,i5,2019,14 nm,4,N/A,N/A,8,4.20 GHz1,6 MB ,15 W,10 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133, LPDDR4-2933]",Intel® UHD Graphics,1.10 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-10110Y,10th,i3,2019,14 nm,2,N/A,N/A,4,4.00 GHz1,4 MB ,7 W,5.5 W,16 GB,"Up to [LPDDR3-2133, DDR3L-1600]",Intel® UHD Graphics,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,Intel® SSE4.1
+i3-10110U,10th,i3,2019,14 nm,2,N/A,N/A,4,4.10 GHz1,4 MB ,15 W,10 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133, LPDDR4-2933]",Intel® UHD Graphics,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-1005G1,10th,i3,2019,10 nm,2,N/A,N/A,4,3.40 GHz1,4 MB ,15 W,13 W,64 GB,"Up to [DDR4-3200, LPDDR4-3733]",Intel® UHD Graphics,900 MHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i3-1000G4,10th,i3,2019,10 nm,2,N/A,N/A,4,3.20 GHz1,4 MB ,9 W,8 W,32 GB,Up to [LPDDR4-3733],Intel® Iris® Plus Graphics,900 MHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+i3-1000G1,10th,i3,2019,10 nm,2,N/A,N/A,4,3.20 GHz1,4 MB ,9 W,8 W,32 GB,Up to [LPDDR4-3733],Intel® UHD Graphics,900 MHz,"HDMI: 4096 x 2304@60Hz
+DP: 5120 x 3200@60Hz
+eDP: 5120 x 3200@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512"
+m3-8100Y,8th,M,2018,14 nm,2,N/A,N/A,4,3.40 GHz1,4 MB ,5 W,4.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® UHD Graphics 615,900 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i9-8950HK,8th,i9,2018,14 nm,6,N/A,N/A,12,4.80 GHz1,12 MB,45 W,N/A,64 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.20 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8850H,8th,i7,2018,14 nm,6,N/A,N/A,12,4.30 GHz1,9 MB ,45 W,35 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.15 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8750H,8th,i7,2018,14 nm,6,N/A,N/A,12,4.10 GHz1,9 MB ,45 W,35 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8700B,8th,i7,2018,14 nm,6,N/A,N/A,12,4.60 GHz1,12 MB,65 W,N/A,64 GB,Up to [DDR4-2666],Intel® UHD Graphics 630,1.20 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8565U,8th,i7,2018,14 nm,4,N/A,N/A,8,4.60 GHz1,8 MB ,15 W,10 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics,1.15 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8559U,8th,i7,2018,14 nm,4,N/A,N/A,8,4.50 GHz1,8 MB ,28 W,20 W,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® Iris® Plus Graphics 655,1.20 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8500B,8th,i5,2018,14 nm,6,N/A,N/A,6,4.10 GHz1,9 MB ,65 W,N/A,64 GB,Up to [DDR4-2666],Intel® UHD Graphics 630,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8400H,8th,i5,2018,14 nm,4,N/A,N/A,8,4.20 GHz1,8 MB ,45 W,35 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8400B,8th,i5,2018,14 nm,6,N/A,N/A,6,4.00 GHz1,9 MB ,65 W,N/A,64 GB,Up to [DDR4-2666],Intel® UHD Graphics 630,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8300H,8th,i5,2018,14 nm,4,N/A,N/A,8,4.00 GHz1,8 MB ,45 W,35 W,64 GB,"Up to [DDR4-2666, LPDDR3-2133]",Intel® UHD Graphics 630,1.00 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8269U,8th,i5,2018,14 nm,4,N/A,N/A,8,4.20 GHz1,6 MB ,28 W,20 W,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® Iris® Plus Graphics 655,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8265U,8th,i5,2018,14 nm,4,N/A,N/A,8,3.90 GHz1,6 MB ,15 W,10 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics,1.10 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8259U,8th,i5,2018,14 nm,4,N/A,N/A,8,3.80 GHz1,6 MB ,28 W,20 W,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® Iris® Plus Graphics 655,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8200Y,8th,i5,2018,14 nm,2,N/A,N/A,4,3.90 GHz1,4 MB ,5 W,3.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® UHD Graphics 615,950 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-8145U,8th,i3,2018,14 nm,2,N/A,N/A,4,3.90 GHz1,4 MB ,15 W,10 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-8130U,8th,i3,2018,14 nm,2,N/A,N/A,4,3.40 GHz1,4 MB ,15 W,10 W,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics 620,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.4,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-8109U,8th,i3,2018,14 nm,2,N/A,N/A,4,3.60 GHz1,4 MB ,28 W,20 W,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® Iris® Plus Graphics 655,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-8100H,8th,i3,2018,14 nm,4,N/A,N/A,4,N/A,6 MB ,45 W,35 W,64 GB,Up to [DDR4-2666],Intel® UHD Graphics 630,1.00 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-8100B,8th,i3,2018,14 nm,4,N/A,N/A,4,N/A,6 MB ,65 W,N/A,64 GB,Up to [DDR4-2666],Intel® UHD Graphics 630,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-7020U,7th,i3,2018,14 nm,2,N/A,N/A,4,N/A,3 MB ,15 W,N/A,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 620,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8650U,8th,i7,2017,14 nm,4,N/A,N/A,8,4.20 GHz1,8 MB ,15 W,10 W,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics 620,1.15 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.4,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-8550U,8th,i7,2017,14 nm,4,N/A,N/A,8,4.00 GHz1,8 MB ,15 W,10 W,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics 620,1.15 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.4,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8350U,8th,i5,2017,14 nm,4,N/A,N/A,8,3.60 GHz1,6 MB ,15 W,10 W,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics 620,1.10 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.4,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-8250U,8th,i5,2017,14 nm,4,N/A,N/A,8,3.40 GHz1,6 MB ,15 W,10 W,32 GB,"Up to [DDR4-2400, LPDDR3-2133]",Intel® UHD Graphics 620,1.10 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.4,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M3-7Y32,7th,M,2017,14 nm,2,N/A,N/A,4,3.00 GHz1,4 MB ,4.5 W,3.75 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 615,900 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7920HQ,7th,i7,2017,14 nm,4,N/A,N/A,8,4.10 GHz1,8 MB,45 W,35 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133, DDR3L-1600]",Intel® HD Graphics 630,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7820HQ,7th,i7,2017,14 nm,4,N/A,N/A,8,3.90 GHz1,8 MB,45 W,35 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133, DDR3L-1600]",Intel® HD Graphics 630,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7820HK,7th,i7,2017,14 nm,4,N/A,N/A,8,3.90 GHz1,8 MB,45 W,35 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133, DDR3L-1600]",Intel® HD Graphics 630,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7700HQ,7th,i7,2017,14 nm,4,N/A,N/A,8,3.80 GHz1,6 MB,45 W,35 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133, DDR3L-1600]",Intel® HD Graphics 630,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7660U,7th,i7,2017,14 nm,2,N/A,N/A,4,4.00 GHz1,4 MB,15 W,9.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Plus Graphics 640,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7600U,7th,i7,2017,14 nm,2,N/A,N/A,4,3.90 GHz1,4 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 620,1.15 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7567U,7th,i7,2017,14 nm,2,N/A,N/A,4,4.00 GHz1,4 MB,28 W,23 W,32 GB,"Up to [DDR4-2133, LPDDR3 - 1866, DDR3L-1600]",Intel® Iris® Plus Graphics 650,1.15 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7560U,7th,i7,2017,14 nm,2,N/A,N/A,4,3.80 GHz1,4 MB,15 W,9.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Plus Graphics 640,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7Y57,7th,i5,2017,14 nm,2,N/A,N/A,4,3.30 GHz1,4 MB ,4.5 W,3.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 615,950 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7440HQ,7th,i5,2017,14 nm,4,N/A,N/A,4,3.80 GHz1,6 MB,45 W,35 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133, DDR3L-1600]",Intel® HD Graphics 630,1.00 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7360U,7th,i5,2017,14 nm,2,N/A,N/A,4,3.60 GHz1,4 MB,15 W,9.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Plus Graphics 640,1.00 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7300U,7th,i5,2017,14 nm,2,N/A,N/A,4,3.50 GHz1,3 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 620,1.10 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7300HQ,7th,i5,2017,14 nm,4,N/A,N/A,4,3.50 GHz1,6 MB,45 W,35 W,64 GB,"Up to [DDR4-2400, LPDDR3-2133, DDR3L-1600]",Intel® HD Graphics 630,1.00 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7287U,7th,i5,2017,14 nm,2,N/A,N/A,4,3.70 GHz1,4 MB,28 W,23 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Plus Graphics 650,1.10 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7267U,7th,i5,2017,14 nm,2,N/A,N/A,4,3.50 GHz1,4 MB,28 W,23 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Plus Graphics 650,1.05 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7260U,7th,i5,2017,14 nm,2,N/A,N/A,4,3.40 GHz1,4 MB,15 W,9.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Plus Graphics 640,950 MHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-7167U,7th,i3,2017,14 nm,2,N/A,N/A,4,N/A,3 MB,28 W,23 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Plus Graphics 650,1.00 GHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-7130U,7th,i3,2017,14 nm,2,N/A,N/A,4,N/A,3 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 620,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-7100H,7th,i3,2017,14 nm,2,N/A,N/A,4,N/A,3 MB,35 W,N/A,64 GB,"DDR4-2400, LPDDR3-2133, DDR3L-1600",Intel® HD Graphics 630,950 MHz,"HDMI: 4096 x 2304@30Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz
+",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M3-7Y30,7th,M,2016,14 nm,2,N/A,N/A,4,2.60 GHz1,4 MB ,4.5 W,3.75 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 615,900 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7Y75,7th,i7,2016,14 nm,2,N/A,N/A,4,3.60 GHz1,4 MB ,4.5 W,3.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 615,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-7500U,7th,i7,2016,14 nm,2,N/A,N/A,4,3.50 GHz1,4 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 620,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7Y54,7th,i5,2016,14 nm,2,N/A,N/A,4,3.20 GHz1,4 MB ,4.5 W,3.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 615,950 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-7200U,7th,i5,2016,14 nm,2,N/A,N/A,4,3.10 GHz1,3 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 620,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-7100U,7th,i3,2016,14 nm,2,N/A,N/A,4,N/A,3 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 620,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6970HQ,6th,i7,2016,14 nm,4,N/A,N/A,8,3.70 GHz1,8 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Pro Graphics 580,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6870HQ,6th,i7,2016,14 nm,4,N/A,N/A,8,3.60 GHz1,8 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Pro Graphics 580,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6770HQ,6th,i7,2016,14 nm,4,N/A,N/A,8,3.50 GHz1,6 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Pro Graphics 580,950 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6660U,6th,i7,2016,14 nm,2,N/A,N/A,4,3.40 GHz1,4 MB ,15 W,9.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Graphics 540,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-6350HQ,6th,i5,2016,14 nm,4,N/A,N/A,4,3.20 GHz1,6 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Pro Graphics 580,900 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-6157U,6th,i3,2016,14 nm,2,N/A,N/A,4,N/A,3 MB ,28 W,23 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Graphics 550,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-6006U,6th,i3,2016,14 nm,2,N/A,N/A,4,N/A,3 MB ,15 W,N/A,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 520,900 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M7-6Y75,6th,M,2015,14 nm,2,N/A,N/A,4,3.10 GHz1,4 MB ,4.5 W,3.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 515,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M5-6Y57,6th,M,2015,14 nm,2,N/A,N/A,4,2.80 GHz1,4 MB ,4.5 W,3.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 515,900 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M5-6Y54,6th,M,2015,14 nm,2,N/A,N/A,4,2.70 GHz1,4 MB ,4.5 W,3.5 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 515,900 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M3-6Y30,6th,M,2015,14 nm,2,N/A,N/A,4,2.20 GHz1,4 MB ,4.5 W,3.8 W,16 GB,"Up to [LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 515,850 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 3840 x 2160@60Hz
+eDP: 3840 x 2160@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6920HQ,6th,i7,2015,14 nm,4,N/A,N/A,8,3.80 GHz1,8 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 530,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6820HQ,6th,i7,2015,14 nm,4,N/A,N/A,8,3.60 GHz1,8 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 530,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6820HK,6th,i7,2015,14 nm,4,N/A,N/A,8,3.60 GHz1,8 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 530,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6700HQ,6th,i7,2015,14 nm,4,N/A,N/A,8,3.50 GHz1,6 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 530,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6650U,6th,i7,2015,14 nm,2,N/A,N/A,4,3.40 GHz1,4 MB ,15 W,9.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Graphics 540,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6600U,6th,i7,2015,14 nm,2,N/A,N/A,4,3.40 GHz1,4 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 520,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6567U,6th,i7,2015,14 nm,2,N/A,N/A,4,3.60 GHz1,4 MB ,28 W,23 W,32 GB,"Up to [DDR4-2133, LPDDR3 - 1866, DDR3L-1600]",Intel® Iris® Graphics 550,1.10 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6560U,6th,i7,2015,14 nm,2,N/A,N/A,4,3.20 GHz1,4 MB ,15 W,9.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Graphics 540,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-6500U,6th,i7,2015,14 nm,2,N/A,N/A,4,3.10 GHz1,4 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 520,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-6440HQ,6th,i5,2015,14 nm,4,N/A,N/A,4,3.50 GHz1,6 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 530,950 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-6360U,6th,i5,2015,14 nm,2,N/A,N/A,4,3.10 GHz1,4 MB ,15 W,9.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Graphics 540,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-6300U,6th,i5,2015,14 nm,2,N/A,N/A,4,3.00 GHz1,3 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 520,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-6300HQ,6th,i5,2015,14 nm,4,N/A,N/A,4,3.20 GHz1,6 MB ,45 W,35 W,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 530,950 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.4,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-6287U,6th,i5,2015,14 nm,2,N/A,N/A,4,3.50 GHz1,4 MB ,28 W,23 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Graphics 550,1.10 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-6267U,6th,i5,2015,14 nm,2,N/A,N/A,4,3.30 GHz1,4 MB ,28 W,23 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Graphics 550,1.05 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-6260U,6th,i5,2015,14 nm,2,N/A,N/A,4,2.90 GHz1,4 MB ,15 W,9.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Graphics 540,950 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-6200U,6th,i5,2015,14 nm,2,N/A,N/A,4,2.80 GHz1,3 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 520,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-6167U,6th,i3,2015,14 nm,2,N/A,N/A,4,N/A,3 MB ,28 W,23 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® Iris® Graphics 550,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-6100U,6th,i3,2015,14 nm,2,N/A,N/A,4,N/A,3 MB ,15 W,7.5 W,32 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 520,1.00 GHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-6100H,6th,i3,2015,14 nm,2,N/A,N/A,4,N/A,3 MB ,35 W,N/A,64 GB,"Up to [DDR4-2133, LPDDR3-1866, DDR3L-1600]",Intel® HD Graphics 530,900 MHz,"HDMI: 4096 x 2304@24Hz
+DP: 4096 x 2304@60Hz
+eDP: 4096 x 2304@60Hz",12,4.5,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-5950HQ,5th,i7,2015,14 nm,4,N/A,N/A,8,3.80 GHz1,6 MB,47 W,N/A,32 GB,Up to [DDR3L 1600/1866 LPDDR3 1600/1866],Intel® Iris® Pro Graphics 6200,1.15 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 4096x2304@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-5850HQ,5th,i7,2015,14 nm,4,N/A,N/A,8,3.60 GHz1,6 MB,47 W,N/A,32 GB,Up to [DDR3L 1600/1866 LPDDR3 1600/1866],Intel® Iris® Pro Graphics 6200,1.10 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 4096x2304@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-5750HQ,5th,i7,2015,14 nm,4,N/A,N/A,8,3.40 GHz1,6 MB,47 W,37 W,32 GB,Up to [DDR3L 1600/1866 LPDDR3 1600/1866],Intel® Iris® Pro Graphics 6200,1.05 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 4096x2304@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-5700HQ,5th,i7,2015,14 nm,4,N/A,N/A,8,3.50 GHz1,6 MB,47 W,37 W,32 GB,Up to [DDR3L 1600/1866 LPDDR3 1600/1866],Intel® Iris® Pro Graphics 6200,1.05 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 4096x2304@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-5650U,5th,i7,2015,14 nm,2,N/A,N/A,4,3.10 GHz1,4 MB,15 W,9.5 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1600/1866]",Intel® HD Graphics 6000,1.00 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-5600U,5th,i7,2015,14 nm,2,N/A,N/A,4,3.20 GHz1,4 MB,15 W,7.5 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 5500,950 MHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-5557U,5th,i7,2015,14 nm,2,N/A,N/A,4,3.40 GHz1,4 MB,28 W,23 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1600/1866]",Intel® Iris® Graphics 6100,1.10 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-5550U,5th,i7,2015,14 nm,2,N/A,N/A,4,3.00 GHz1,4 MB ,15 W,9.5 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1600/1866]",Intel® HD Graphics 6000,1.00 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-5500U,5th,i7,2015,14 nm,2,N/A,N/A,4,3.00 GHz1,4 MB,15 W,7.5 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 5500,950 MHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-5350U,5th,i5,2015,14 nm,2,N/A,N/A,4,2.90 GHz1,3 MB,15 W,9.5 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1600/1866]",Intel® HD Graphics 6000,1.00 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-5350H,5th,i5,2015,14 nm,2,N/A,N/A,4,3.50 GHz1,4 MB,47 W,N/A,32 GB,Up to [DDR3L 1600/1866 LPDDR3 1600/1866],Intel® Iris® Pro Graphics 6200,1.05 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-5300U,5th,i5,2015,14 nm,2,N/A,N/A,4,2.90 GHz1,3 MB,15 W,7.5 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 5500,900 MHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-5287U,5th,i5,2015,14 nm,2,N/A,N/A,4,3.30 GHz1,3 MB,28 W,23 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1600/1866]",Intel® Iris® Graphics 6100,1.10 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-5257U,5th,i5,2015,14 nm,2,N/A,N/A,4,3.10 GHz1,3 MB,28 W,23 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1600/1866]",Intel® Iris® Graphics 6100,1.05 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-5250U,5th,i5,2015,14 nm,2,N/A,N/A,4,2.70 GHz1,3 MB,15 W,9.5 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1600/1866]",Intel® HD Graphics 6000,950 MHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-5200U,5th,i5,2015,14 nm,2,N/A,N/A,4,2.70 GHz1,3 MB,15 W,7.5 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 5500,900 MHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-5157U,5th,i3,2015,14 nm,2,N/A,N/A,4,N/A,3 MB,28 W,23 W,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1600/1866]",Intel® Iris® Graphics 6100,1.00 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-5020U,5th,i3,2015,14 nm,2,N/A,N/A,4,N/A,3 MB,15 W,10 W,16 GB,Up to [DDR3L 1333/1600 LPDDR 1333 /1600],Intel® HD Graphics 5500,900 MHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-5015U,5th,i3,2015,14 nm,2,N/A,N/A,4,N/A,3 MB,15 W,10 W,16 GB,Up to [DDR3L 1333/1600 LPDDR 1333 /1600],Intel® HD Graphics 5500,850 MHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-5010U,5th,i3,2015,14 nm,2,N/A,N/A,4,N/A,3 MB,15 W,10 W,16 GB,Up to [DDR3L 1333/1600 LPDDR 1333 /1600],Intel® HD Graphics 5500,900 MHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-5005U,5th,i3,2015,14 nm,2,N/A,N/A,4,N/A,3 MB,15 W,10 W,16 GB,Up to [DDR3L 1333/1600 LPDDR 1333 /1600],Intel® HD Graphics 5500,850 MHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4722HQ,4th,i7,2015,22 nm,4,N/A,N/A,8,3.40 GHz1,6 MB,37 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.15 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4720HQ,4th,i7,2015,22 nm,4,N/A,N/A,8,3.60 GHz1,6 MB,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.20 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M-5Y71 ,5th ,M,2014,14 nm,2,N/A,N/A,4,2.90 GHz1,4 MB,4.5 W,3.5 W,16 GB,Up to [LPDDR3 1333/1600; DDR3L/DDR3L-RS 1600],Intel® HD Graphics 5300,900 MHz,"HDMI: 2560x1600@60Hz
+DP: 2560x1600@60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M-5Y70,5th ,M,2014,14 nm,2,N/A,N/A,4,2.60 GHz1,4 MB,4.5 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 5300,850 MHz,"HDMI: 2560x1600@60Hz
+DP: 2560x1600@60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M-5Y51,5th ,M,2014,14 nm,2,N/A,N/A,4,2.60 GHz1,4 MB,4.5 W,3.5 W,16 GB,Up to [LPDDR3 1333/1600; DDR3L/DDR3L-RS 1600],Intel® HD Graphics 5300,900 MHz,"HDMI: 2560x1600@60Hz
+DP: 2560x1600@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M-5Y31,5th ,M,2014,14 nm,2,N/A,N/A,4,2.40 GHz1,4 MB,4.5 W,3.5 W,16 GB,Up to [LPDDR3 1333/1600; DDR3L/DDR3L-RS 1600],Intel® HD Graphics 5300,850 MHz,"HDMI: 2560x1600@60Hz
+DP: 2560x1600@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M-5Y10c,5th ,M,2014,14 nm,2,N/A,N/A,4,2.00 GHz1,4 MB,4.5 W,3.5 W,16 GB,Up to [LPDDR3 1333/1600; DDR3L/DDR3L-RS 1600],Intel® HD Graphics 5300,800 MHz,"HDMI: 2560x1600@60Hz
+DP: 2560x1600@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M-5Y10a,5th ,M,2014,14 nm,2,N/A,N/A,4,2.00 GHz1,4 MB,4.5 W,N/A,16 GB,Up to [LPDDR3 1333/1600; DDR3L/DDR3L-RS 1600],Intel® HD Graphics 5300,800 MHz,"HDMI: 2560x1600@60Hz
+DP: 2560x1600@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+M-5Y10,5th ,M,2014,14 nm,2,N/A,N/A,4,2.00 GHz1,4 MB,4.5 W,N/A,16 GB,Up to [LPDDR3 1333/1600; DDR3L/DDR3L-RS 1600],Intel® HD Graphics 5300,800 MHz,"HDMI: 2560x1600@60Hz
+DP: 2560x1600@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4980HQ,4th,i7,2014,22 nm,4,N/A,N/A,8,4.00 GHz1,6 MB,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® Iris® Pro Graphics 5200,1.30 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4940MX,4th,i7,2014,22 nm,4,N/A,N/A,8,4.00 GHz1,8 MB ,57 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.35 GHz,N/A,N/A,N/A,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4910MQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.90 GHz1,8 MB ,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.30 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4870HQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.70 GHz1,6 MB,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® Iris® Pro Graphics 5200,1.20 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4860HQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.60 GHz1,6 MB ,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® Iris® Pro Graphics 5200,1.20 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4810MQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.80 GHz1,6 MB ,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.30 GHz,"HDMI: 2560x1600@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4770HQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.40 GHz1,6 MB,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® Iris® Pro Graphics 5200,1.20 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4760HQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.30 GHz1,6 MB ,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® Iris® Pro Graphics 5200,1.20 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4712MQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.30 GHz1,6 MB ,37 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.15 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4712HQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.30 GHz1,6 MB ,37 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.15 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4710MQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.50 GHz1,6 MB ,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.15 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4710HQ,4th,i7,2014,22 nm,4,N/A,N/A,8,3.50 GHz1,6 MB ,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.20 GHz,"HDMI: 3840x2160@30Hz
+DP: 3840x2160@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4610M,4th,i7,2014,22 nm,2,N/A,N/A,4,3.70 GHz1,4 MB ,37 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.30 GHz,DP: 4096 x 2160@30Hz,11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4578U,4th,i7,2014,22 nm,2,N/A,N/A,4,3.50 GHz1,4 MB,28 W,N/A,16 GB,"Up to [DDR3L-1333, 1600; LPDDR3-1333, 1600]",Intel® Iris® Graphics 5100,1.20 GHz,"HDMI: 3200x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i7-4510U,4th,i7,2014,22 nm,2,N/A,N/A,4,3.10 GHz1,4 MB ,15 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 4400,1.10 GHz,"HDMI: 3200x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4360U,4th,i5,2014,22 nm,2,N/A,N/A,4,3.00 GHz1,3 MB ,15 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 5000,1.10 GHz,"HDMI: 3280x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4340M,4th,i5,2014,22 nm,2,N/A,N/A,4,3.60 GHz1,3 MB ,37 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.25 GHz,"HDMI: 3840x2160@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4310U,4th,i5,2014,22 nm,2,N/A,N/A,4,3.00 GHz1,3 MB ,15 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 4400,1.10 GHz,"HDMI: 3280x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4310M,4th,i5,2014,22 nm,2,N/A,N/A,4,3.40 GHz1,3 MB ,37 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.25 GHz,"HDMI: 3840x2160@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,Yes,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4308U,4th,i5,2014,22 nm,2,N/A,N/A,4,3.30 GHz1,3 MB,28 W,N/A,16 GB,"Up to [DDR3L-1333, 1600; LPDDR3-1333, 1600]",Intel® Iris® Graphics 5100,1.20 GHz,"HDMI: 3280x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4278U,4th,i5,2014,22 nm,2,N/A,N/A,4,3.10 GHz1,3 MB,28 W,N/A,16 GB,"Up to [DDR3L-1333, 1600; LPDDR3-1333, 1600]",Intel® Iris® Graphics 5100,1.10 GHz,"HDMI: 3280x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4260U,4th,i5,2014,22 nm,2,N/A,N/A,4,2.70 GHz1,3 MB ,15 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 5000,1.00 GHz,"HDMI: 3280x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4220Y,4th,i5,2014,22 nm,2,N/A,N/A,4,2.00 GHz1,3 MB,11.5 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 4200,850 MHz,"HDMI: 2560x1600@60Hz
+DP: 2560x1600@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4210U,4th,i5,2014,22 nm,2,N/A,N/A,4,2.70 GHz1,3 MB ,15 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 4400,1.00 GHz,"HDMI: 3280x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4210M,4th,i5,2014,22 nm,2,N/A,N/A,4,3.20 GHz1,3 MB ,37 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.15 GHz,"HDMI: 3840x2160@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i5-4210H,4th,i5,2014,22 nm,2,N/A,N/A,4,3.50 GHz1,3 MB ,47 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.15 GHz,"HDMI: 3840x2160@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-4120U,4th,i3,2014,22 nm,2,N/A,N/A,4,N/A,3 MB,15 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 4400,1.00 GHz,"HDMI: 3200x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-4110M,4th,i3,2014,22 nm,2,N/A,N/A,4,N/A,3 MB ,37 W,N/A,32 GB,Up to [DDR3L 1333/1600],Intel® HD Graphics 4600,1.10 GHz,"HDMI: 3840x2160@ 60Hz
+DP: 3840x2160@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-4030Y,4th,i3,2014,22 nm,2,N/A,N/A,4,N/A,3 MB ,11.5 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 4200,850 MHz,"HDMI: 2560x1600@60Hz
+DP: 2561x1600@60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-4030U,4th,i3,2014,22 nm,2,N/A,N/A,4,N/A,3 MB ,15 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 4400,1.00 GHz,"HDMI: 3200x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+i3-4025U,4th,i3,2014,22 nm,2,N/A,N/A,4,N/A,3 MB ,15 W,N/A,16 GB,"Up to [DDR3L 1333/1600, LPDDR3 1333/1600]",Intel® HD Graphics 4400,950 MHz,"HDMI: 3200x2000@ 60Hz
+DP: 3200x2000@ 60Hz",11.2/12,4.3,No,"Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2"
+,,,,,,,,,,,,,,,,,,,,,
+1Intel® Turbo Boost Technology 2.0 Frequency,,,,,,,,,,,,,,,,,,,,,
+2Intel® Turbo Boost Max Technology 3.0 Frequency,,,,,,,,,,,,,,,,,,,,,
+3Intel® Thermal Velocity Boost Frequency,,,,,,,,,,,,,,,,,,,,,
+4Max Turbo Frequency only applies on performance-cores for 12th & 13th Gen Intel® Core™ Processors,,,,,,,,,,,,,,,,,,,,,
+5Type and speed of memory can vary between laptops,,,,,,,,,,,,,,,,,,,,,
+6 This Processor is available also without IPU (Intel® Image Processing Unit) and no LPDDR5,,,,,,,,,,,,,,,,,,,,,
+7 This Processor is available also without IPU (Intel® Image Processing Unit) and no minimum assured power set,,,,,,,,,,,,,,,,,,,,,

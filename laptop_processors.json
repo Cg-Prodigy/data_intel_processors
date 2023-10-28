@@ -1,0 +1,2045 @@
+{
+    "13th": {
+        "i9-13980HX": {
+            "core": "i9",
+            "no_of_cores": "24",
+            "threads": "32",
+            "max boost": "5.60 GHz",
+            "base boost": "3.4GHz"
+        },
+        "i9-13950HX": {
+            "core": "i9",
+            "no_of_cores": "24",
+            "threads": "32",
+            "max boost": "5.50 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i9-13905H": {
+            "core": "i9",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "5.40 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i9-13900HX": {
+            "core": "i9",
+            "no_of_cores": "24",
+            "threads": "32",
+            "max boost": "5.40 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i9-13900HK": {
+            "core": "i9",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "5.40 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i9-13900H": {
+            "core": "i9",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "5.40 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-13850HX": {
+            "core": "i7",
+            "no_of_cores": "20",
+            "threads": "28",
+            "max boost": "5.30 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-13800H": {
+            "core": "i7",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "5.20 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-1370P": {
+            "core": "i7",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "5.20 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-13705H": {
+            "core": "i7",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "5.00 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-13700HX": {
+            "core": "i7",
+            "no_of_cores": "16",
+            "threads": "24",
+            "max boost": "5.00 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-13700H": {
+            "core": "i7",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "5.00 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-1365U": {
+            "core": "i7",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "5.20 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i7-13650HX": {
+            "core": "i7",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "4.90 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-13620H": {
+            "core": "i7",
+            "no_of_cores": "10",
+            "threads": "16",
+            "max boost": "4.90 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-1360P": {
+            "core": "i7",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "5.00 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i7-1355U": {
+            "core": "i7",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "5.00 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-13600HX": {
+            "core": "i5",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "4.80 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-13600H": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.80 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1350P": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.70 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-13505H": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.70 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-13500HX": {
+            "core": "i5",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "4.70 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-13500H7": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.70 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1345U": {
+            "core": "i5",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.70 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-13450HX": {
+            "core": "i5",
+            "no_of_cores": "10",
+            "threads": "16",
+            "max boost": "4.60 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-13420H": {
+            "core": "i5",
+            "no_of_cores": "8",
+            "threads": "12",
+            "max boost": "4.60 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1340P": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.60 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1335U": {
+            "core": "i5",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.60 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1334U": {
+            "core": "i5",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.60 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i3-1315U6": {
+            "core": "i3",
+            "no_of_cores": "6",
+            "threads": "8",
+            "max boost": "4.50 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i3-1305U": {
+            "core": "i3",
+            "no_of_cores": "5",
+            "threads": "6",
+            "max boost": "4.50 GHz",
+            "base boost": "1.4GHz"
+        }
+    },
+    "12th": {
+        "i9-12950HX": {
+            "core": "i9",
+            "no_of_cores": "16",
+            "threads": "24",
+            "max boost": "5.00 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i9-12900HK": {
+            "core": "i9",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "5.00 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i9-12900H": {
+            "core": "i9",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "5.00 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-12850HX": {
+            "core": "i7",
+            "no_of_cores": "16",
+            "threads": "24",
+            "max boost": "4.80 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-12800H": {
+            "core": "i7",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "4.80 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-1270P": {
+            "core": "i7",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.80 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i7-12700H": {
+            "core": "i7",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "4.70 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-1265U": {
+            "core": "i7",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.80 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i7-12650HX": {
+            "core": "i7",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "4.70 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-12650H": {
+            "core": "i7",
+            "no_of_cores": "10",
+            "threads": "16",
+            "max boost": "4.70 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-1260U": {
+            "core": "i7",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.70 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i7-1260P\u00a0": {
+            "core": "i7",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.70 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i7-1255U": {
+            "core": "i7",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.70 GHz",
+            "base boost": "4GHz"
+        },
+        "i7-1250U": {
+            "core": "i7",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.70 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-12600H": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.50 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1250P\u00a0": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-12500H": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.50 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1245U\u00a0": {
+            "core": "i5",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-12450HX\u00a0": {
+            "core": "i5",
+            "no_of_cores": "8",
+            "threads": "12",
+            "max boost": "4.40 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i5-12450H": {
+            "core": "i5",
+            "no_of_cores": "8",
+            "threads": "12",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1240U\u00a0": {
+            "core": "i5",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1235U": {
+            "core": "i5",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i5-1230U\u00a0": {
+            "core": "i5",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i3-1220P": {
+            "core": "i3",
+            "no_of_cores": "10",
+            "threads": "12",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i3-1215U": {
+            "core": "i3",
+            "no_of_cores": "6",
+            "threads": "8",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i3-1210U": {
+            "core": "i3",
+            "no_of_cores": "6",
+            "threads": "8",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        },
+        "i9-12900HX\u00a0": {
+            "core": "i9",
+            "no_of_cores": "16",
+            "threads": "24",
+            "max boost": "5.00 GHz",
+            "base boost": ".2.4GHz"
+        },
+        "i7-1280P": {
+            "core": "i7",
+            "no_of_cores": "14",
+            "threads": "20",
+            "max boost": "4.80 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i7-12800HX": {
+            "core": "i7",
+            "no_of_cores": "16",
+            "threads": "24",
+            "max boost": "4.80 GHz",
+            "base boost": "2.4GHz"
+        },
+        "i5-12600HX": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.60 GHz",
+            "base boost": "2.4GHz"
+        },
+        " i5-1240P": {
+            "core": "i5",
+            "no_of_cores": "12",
+            "threads": "16",
+            "max boost": "4.40 GHz",
+            "base boost": "1.4GHz"
+        }
+    },
+    "11th": {
+        "i7-1195G7": {
+            "core": "i9",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "5.00 GHz",
+            "base boost": "2GHz"
+        },
+        "i9-11980HK\u00a0": {
+            "core": "i9",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "5.00 GHz",
+            "base boost": ".2GHz"
+        },
+        "i9-11950H": {
+            "core": "i9",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "5.00 GHz",
+            "base boost": ".2GHz"
+        },
+        "i9-11900H": {
+            "core": "i9",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "4.90 GHz",
+            "base boost": "2GHz"
+        },
+        "i7-11850H": {
+            "core": "i7",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "4.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-1180G7": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-11800H": {
+            "core": "i7",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "4.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-11600H": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-11375H": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "5.00 GHz",
+            "base boost": "2GHz"
+        },
+        "i7-11370H": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1155G7": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-11500H\u00a0": {
+            "core": "i5",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1145G7": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1140G7": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-11400H": {
+            "core": "i5",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-11320H": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-11300H": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-11260H": {
+            "core": "i5",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-1125G4": {
+            "core": "i3",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-1120G4": {
+            "core": "i3",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-1185G7": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-1165G7": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-1160G7": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1135G7": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1130G7": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-1115G4": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-1110G4": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        }
+    },
+    "10th": {
+        "i3-10100Y": {
+            "core": "i3",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i9-10980HK": {
+            "core": "i9",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "5.30 GHz",
+            "base boost": "3GHz"
+        },
+        "i9-10885H": {
+            "core": "i9",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "5.30 GHz",
+            "base boost": "3GHz"
+        },
+        "i7-10875H": {
+            "core": "i7",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "5.10 GHz",
+            "base boost": "2GHz"
+        },
+        "i7-10870H": {
+            "core": "i7",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "5.00 GHz",
+            "base boost": "3GHz"
+        },
+        "i7-10850H": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "5.10 GHz",
+            "base boost": "3GHz"
+        },
+        "i7-10810U": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-10750H": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "5.00 GHz",
+            "base boost": "3GHz"
+        },
+        "i7-1068NG7": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-10610U": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-10500H": {
+            "core": "i5",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.50 GHz",
+            "base boost": "2GHz"
+        },
+        "i5-10400H": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1038NG7": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-10310U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-10300H": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-10200H": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-10710U": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-1065G7": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-1060G7": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-10510Y": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-10510U": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1035G7": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1035G4": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1035G1": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-10310Y": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1030G7": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-1030G4": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-10210Y": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-10210U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-10110Y": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-10110U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-1005G1": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-1000G4": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-1000G1": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.20 GHz",
+            "base boost": "1GHz"
+        }
+    },
+    "9th": {
+        "i9-9980HK": {
+            "core": "i9",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "5.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i9-9880H": {
+            "core": "i9",
+            "no_of_cores": "8",
+            "threads": "16",
+            "max boost": "4.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-9850H": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-9750HF": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-9750H": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-9400H": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.30 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-9300HF": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-9300H": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        }
+    },
+    "8th": {
+        "i7-8665U": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-8569U": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-8557U": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-8500Y": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "4.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8365U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8310Y": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8279U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8260U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8257U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8210Y": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-8140U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "m3-8100Y": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i9-8950HK": {
+            "core": "i9",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-8850H": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.30 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-8750H": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-8700B": {
+            "core": "i7",
+            "no_of_cores": "6",
+            "threads": "12",
+            "max boost": "4.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-8565U": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-8559U": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8500B": {
+            "core": "i5",
+            "no_of_cores": "6",
+            "threads": "6",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8400H": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8400B": {
+            "core": "i5",
+            "no_of_cores": "6",
+            "threads": "6",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8300H": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8269U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8265U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8259U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8200Y": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-8145U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-8130U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-8109U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-8100H": {
+            "core": "i3",
+            "no_of_cores": "4",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-8100B": {
+            "core": "i3",
+            "no_of_cores": "4",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i7-8650U": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-8550U": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8350U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-8250U": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        }
+    },
+    "7th": {
+        "i3-7020U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "M3-7Y32": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7920HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7820HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7820HK": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7700HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7660U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7600U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7567U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7560U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7Y57": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.30 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7440HQ": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "4",
+            "max boost": "3.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7360U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7300U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7300HQ": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "4",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7287U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7267U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7260U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-7167U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-7130U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-7100H": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "M3-7Y30": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7Y75": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-7500U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7Y54": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-7200U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-7100U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        }
+    },
+    "6th": {
+        "i7-6970HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6870HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6770HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6660U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-6350HQ": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "4",
+            "max boost": "3.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-6157U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-6006U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "M7-6Y75": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.10 GHz",
+            "base boost": "1GHz"
+        },
+        "M5-6Y57": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.80 GHz",
+            "base boost": "1GHz"
+        },
+        "M5-6Y54": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.70 GHz",
+            "base boost": "1GHz"
+        },
+        "M3-6Y30": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6920HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6820HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6820HK": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6700HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6650U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6600U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6567U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6560U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-6500U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-6440HQ": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "4",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-6360U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-6300U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-6300HQ": {
+            "core": "i5",
+            "no_of_cores": "4",
+            "threads": "4",
+            "max boost": "3.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-6287U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-6267U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.30 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-6260U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-6200U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-6167U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-6100U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-6100H": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        }
+    },
+    "5th": {
+        "i7-5950HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-5850HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-5750HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-5700HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-5650U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-5600U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-5557U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-5550U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-5500U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-5350U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-5350H": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-5300U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-5287U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.30 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-5257U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-5250U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-5200U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-5157U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-5020U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-5015U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-5010U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-5005U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "M-5Y71\u00a0": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.90 GHz",
+            "base boost": "1GHz"
+        },
+        "M-5Y70": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.60 GHz",
+            "base boost": "1GHz"
+        },
+        "M-5Y51": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.60 GHz",
+            "base boost": "1GHz"
+        },
+        "M-5Y31": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.40 GHz",
+            "base boost": "1GHz"
+        },
+        "M-5Y10c": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.00 GHz",
+            "base boost": "1GHz"
+        },
+        "M-5Y10a": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.00 GHz",
+            "base boost": "1GHz"
+        },
+        "M-5Y10": {
+            "core": "M",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.00 GHz",
+            "base boost": "1GHz"
+        }
+    },
+    "4th": {
+        "i7-4722HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4720HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4980HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4940MX": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "4.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4910MQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.90 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4870HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4860HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4810MQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.80 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4770HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4760HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.30 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4712MQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.30 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4712HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.30 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4710MQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4710HQ": {
+            "core": "i7",
+            "no_of_cores": "4",
+            "threads": "8",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4610M": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4578U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i7-4510U": {
+            "core": "i7",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4360U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4340M": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.60 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4310U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4310M": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.40 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4308U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.30 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4278U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.10 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4260U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4220Y": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.00 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4210U": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "2.70 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4210M": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.20 GHz",
+            "base boost": "1GHz"
+        },
+        "i5-4210H": {
+            "core": "i5",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "3.50 GHz",
+            "base boost": "1GHz"
+        },
+        "i3-4120U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-4110M": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-4030Y": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-4030U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        },
+        "i3-4025U": {
+            "core": "i3",
+            "no_of_cores": "2",
+            "threads": "4",
+            "max boost": "N/AGHzz"
+        }
+    },
+    "": {
+        "": {
+            "core": "",
+            "no_of_cores": "",
+            "threads": "",
+            "max boost": "GHzz"
+        },
+        "1Intel\u00ae Turbo Boost Technology 2.0 Frequency": {
+            "core": "",
+            "no_of_cores": "",
+            "threads": "",
+            "max boost": "GHzz"
+        },
+        "2Intel\u00ae Turbo Boost Max Technology 3.0 Frequency": {
+            "core": "",
+            "no_of_cores": "",
+            "threads": "",
+            "max boost": "GHzz"
+        },
+        "3Intel\u00ae Thermal Velocity Boost Frequency": {
+            "core": "",
+            "no_of_cores": "",
+            "threads": "",
+            "max boost": "GHzz"
+        },
+        "4Max Turbo Frequency only applies on performance-cores for 12th & 13th Gen Intel\u00ae Core\u2122 Processors": {
+            "core": "",
+            "no_of_cores": "",
+            "threads": "",
+            "max boost": "GHzz"
+        },
+        "5Type and speed of memory can vary between laptops": {
+            "core": "",
+            "no_of_cores": "",
+            "threads": "",
+            "max boost": "GHzz"
+        },
+        "6 This Processor is available also without IPU (Intel\u00ae Image Processing Unit) and no LPDDR5": {
+            "core": "",
+            "no_of_cores": "",
+            "threads": "",
+            "max boost": "GHzz"
+        },
+        "7 This Processor is available also without IPU (Intel\u00ae Image Processing Unit) and no minimum assured power set": {
+            "core": "",
+            "no_of_cores": "",
+            "threads": "",
+            "max boost": "GHzz"
+        }
+    }
+}
